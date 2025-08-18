@@ -1,14 +1,8 @@
-# Welcome to **Tuskens**
+# **Creativity & Beyond...**
 
-**Creativity & Beyond...**
-
-We are **Tuskens MEA**, a software development company based in Tunisia.  
+We are **Tuskens**, a software development company based in Tunisia.  
 We delivers a wide range of high-tech services and solutions for businesses worldwide.
 We help businesses and organizations transform their ideas into reality through **modern web, mobile, and AI & cloud powered solutions**.
-
-Website: [tuskens.com](https://tuskens.com)  
-Contact: hello@tuskens.com  
-Phone: +216 97 052 688
 
 ---
 
@@ -24,3 +18,7 @@ Phone: +216 97 052 688
 ## Let’s Collaborate
 We’re open to **partnerships, open-source contributions, and client projects**.  
 If you’re interested in working with us, feel free to reach out!
+
+Website: [tuskens.com](https://tuskens.com)  
+Contact: hello@tuskens.com  
+Phone: +216 97 052 688
