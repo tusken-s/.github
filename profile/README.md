@@ -7,11 +7,12 @@ We help businesses and organizations transform their ideas into reality through 
 ---
 
 ## What We Do
-- **Custom Software Development** – Tailored solutions for businesses of all sizes.  
-- **Web & Mobile Applications** – Scalable, secure, and user-friendly apps.  
-- **AI & automations** – Transform businesses through AI and intelligent automation solutions.   
-- **POS & SaaS Solutions** – Specialized tools for retail, and enterprises.
-- **Digital Transformation** – Helping clients modernize their workflows and customer experience. 
+**Custom Software Development** – Tailored digital solutions designed to match your business needs.
+**Web & Mobile Applications** – Scalable, secure, and intuitive applications built for performance.
+**AI & Automations** – Smart AI-powered systems that streamline processes and transform productivity.
+**SaaS Solutions** – Ready-to-use or fully customized tools (ERPs, CRMs, POS systems) for retail and enterprise needs.
+**Digital Transformation** – Guiding companies through modernization, workflow optimization, and improved customer experience.
+**Technical Talent Acquisition** – Helping your business access the right expertise and specialized skills to scale your operations.
 
 ---
 
