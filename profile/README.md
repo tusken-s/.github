@@ -13,7 +13,7 @@ We help businesses and organizations transform their ideas into reality through 
 - **SaaS Solutions** – Ready-to-use or fully customized tools (ERPs, CRMs, POS systems) for retail and enterprise needs.
 - **Cloud, Domains & Hosting Services** – Reliable infrastructure and hosting solutions to keep your applications running smoothly and securely.
 - **Digital Transformation** – Guiding companies through modernization, workflow optimization, and improved customer experience.
-- **Technical Talent Acquisition** – Helping your business access the right expertise and specialized skills to scale your operations.
+- [**Technical Talent Acquisition**](https://tuskens.com/pricing) – Helping your business access the right expertise and specialized skills to scale your operations.
 
 ---
 
